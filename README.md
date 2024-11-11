@@ -16,7 +16,7 @@ Welcome to my GitHub profile! Here’s a quick overview of what I’m up to:
 
 Email: mjishnu990@gmail.com
 
-LinkedIn: Jishnu M
+LinkedIn:  https://www.linkedin.com/in/jishnu-m-11760b2b0/
 
 Phone: +91 77367 24727
 
