@@ -1,12 +1,15 @@
-Hi there Iam Jishnu M👋
-
+Hi there, I'm Jishnu M 👋
 Welcome to my GitHub profile! Here’s a quick overview of what I’m up to:
 
-🔭 I’m currently working on: Developing projects with the MERN stack, including an Instagram clone and a YouTube-style video-sharing platform.
-🌱 I’m currently learning: C++ & python to deepen my programming expertise.
-👯 I’m looking For jobs on: Open-source web development projects and anything related to JavaScript, Node.js, or React!
-🤔 I’m looking for help with: Enhancing my skills in advanced backend development, particularly with Redis and caching techniques.
-💬 Ask me about: MERN stack, project structure, or building APIs!
-📫 How to reach me: Email mjishnu990@gmail.com , connect on LinkedIn https://www.linkedin.com/in/jishnu-m-11760b2b0/ or ph:7736724727 
+🔭 Currently working on: Developing projects with the MERN stack, including an Instagram clone and a YouTube-style video-sharing platform.
+🌱 Currently learning: C++ and Python to deepen my programming expertise.
+👯 Looking for jobs in: Open-source web development projects and roles related to JavaScript, Node.js, or React.
+🤔 Seeking help with: Enhancing my skills in advanced backend development, especially with Redis and caching techniques.
+💬 Ask me about: The MERN stack, project structure, or building APIs!
+📫 How to reach me:
+Email: mjishnu990@gmail.com
+LinkedIn: Jishnu M
+Phone: +91 77367 24727
 😄 Pronouns: He/Him
-⚡ Fun fact: I love experimenting with UI libraries like Tailwind CSS , daisyUI ,ChakraUI... to create sleek, responsive designs!
+⚡ Fun fact: I enjoy experimenting with UI libraries like Tailwind CSS, daisyUI, and Chakra UI to create sleek, responsive designs!
+Thanks for visiting my profile! 😊
