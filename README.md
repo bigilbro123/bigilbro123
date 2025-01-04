@@ -20,6 +20,8 @@ LinkedIn:  https://www.linkedin.com/in/jishnu-m-11760b2b0/
 
 Phone: +91 77367 24727
 
+💼 Internship: Currently interning at Rootments, gaining hands-on experience in web development and modern frameworks.
+
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I enjoy experimenting with UI libraries like Tailwind CSS, daisyUI, and Chakra UI to create sleek, responsive designs!
